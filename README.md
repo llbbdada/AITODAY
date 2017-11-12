@@ -1,0 +1,2 @@
+# AITODAY
+TrytostartaAIproject
